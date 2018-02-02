@@ -3,7 +3,7 @@ def reverse_each_word(phrase)
 end
 
 def convert_to_Array(phrase)
-  phrase_Array = phrase.split
+  phrase_Array = phrase.split(' ')
 end
 
 hola = "hola como estas!"
