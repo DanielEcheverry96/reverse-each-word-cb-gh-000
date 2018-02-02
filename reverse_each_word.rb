@@ -7,5 +7,5 @@ def convert_to_Array(phrase)
 end
 
 hola = "hola como estas!"
-
-puts convert_to_Array(hola)
+hh= convert_to_Array(hola)
+puts hh
