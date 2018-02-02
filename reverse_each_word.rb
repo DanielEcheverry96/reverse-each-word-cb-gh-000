@@ -7,5 +7,4 @@ def convert_to_Array(phrase)
 end
 
 hola = "life is awesome".split
-hh= convert_to_Array(hola)
 puts hola
