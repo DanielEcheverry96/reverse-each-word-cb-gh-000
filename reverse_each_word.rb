@@ -5,3 +5,7 @@ end
 def convert_to_Array(phrase)
   phrase.split
 end
+
+hola = "hola como estas!"
+
+puts convert_to_Array(hola)
