@@ -8,4 +8,4 @@ end
 
 hola = "hola como estas!"
 hh= convert_to_Array(hola)
-puts hh
+puts "hola como estas!".split
